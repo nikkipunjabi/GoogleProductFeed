@@ -39,7 +39,7 @@
 
 ## How To Install
 
-1. Download the Zip file NP_Google Product Feed Module from Packages\V1\  or [NP_Google Product Feed Module]( http://nikkipunjabi.com/Sitecore/NP_Google Product Feed Module.zip)
+1. Download the Zip file **NP_Google Product Feed Module** from Packages\V1\ or [NP_Google Product Feed Module]( http://nikkipunjabi.com/Sitecore/NP_Google Product Feed Module.zip)
 2. Extract the zip file.
    It Contains:
 
