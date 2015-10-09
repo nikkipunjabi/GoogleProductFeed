@@ -105,6 +105,7 @@ Here **Title** is the field which we have provided for Title, Description, gID, 
 ***Note: If you want to generate feed for Multi-Site than you have to specify Site Root Item path in Scheduler and with respect to that same in Config Configurations.***
 
 ![Multi-Site Scheduler Configuration](http://nikkipunjabi.com/Sitecore/GPF/6.%20Multi-Site%20Config%20Configuration.png)
+
 *So Config Configurations for above displayed Scheduler will be-*
 ![Multi-Site Config Configuration](http://nikkipunjabi.com/Sitecore/GPF/8.%20Multi-Site%20Config%20Configuration.png)
 
