@@ -43,5 +43,4 @@ Temporary Items
 .apdisk
 *.cache
 obj/Debug/_WPPLastBuildInfo.txt
-obj/Debug/Package/PackageTmp/App_Config/Prefetch/Master.config
-*.config
+

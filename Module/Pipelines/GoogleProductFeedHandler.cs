@@ -40,12 +40,12 @@ namespace GoogleProductFeed.Module.Pipelines
                 if (googleProductFeedConfiguration != null)
                 {
 
-                    Item sitemapXMLItem = Sitecore.Context.Database.GetItem(googleProductFeedConfiguration.XMLPath);
+                    Item googleProductFeedXMLItem = Sitecore.Context.Database.GetItem(googleProductFeedConfiguration.XMLPath);
 
-                    if (sitemapXMLItem == null)
+                    if (googleProductFeedXMLItem == null)
                         return;
 
-                    string responseText = sitemapXMLItem["Content"];
+                    string responseText = googleProductFeedXMLItem["Content"];
                     if (responseText.ToString().StartsWith("<br") || string.IsNullOrWhiteSpace(responseText))
                     {
                         XmlDocument doc = new XmlDocument();

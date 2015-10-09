@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\GoogleProductFeed\Website</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Config/Include/GoogleProductFeed.config">
+      <publishTime>10/08/2015 22:40:33</publishTime>
+    </File>
+    <File Include="bin/GoogleProductFeed.dll">
+      <publishTime>10/09/2015 01:15:00</publishTime>
+    </File>
+    <File Include="bin/GoogleProductFeed.pdb">
+      <publishTime>10/09/2015 01:14:59</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Client.dll">
+      <publishTime>08/12/2015 14:40:34</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ContentSearch.Analytics.dll">
+      <publishTime>08/12/2015 14:40:38</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ContentSearch.Client.dll">
+      <publishTime>08/12/2015 14:40:38</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ContentSearch.dll">
+      <publishTime>08/12/2015 14:40:38</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ContentSearch.Linq.dll">
+      <publishTime>08/12/2015 14:40:40</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ContentSearch.Linq.Lucene.dll">
+      <publishTime>08/12/2015 14:40:40</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ContentSearch.LuceneProvider.dll">
+      <publishTime>08/12/2015 14:40:40</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Kernel.dll">
+      <publishTime>08/12/2015 14:40:50</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>07/08/2015 22:55:46</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/09/2015 01:15:00</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
