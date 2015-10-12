@@ -1,26 +1,22 @@
 
 ## Google Product Feed
 
-1)	What is Google Product Feed?
-
-2) 	About Google Product Feed Module
-
-3)	How to Install
-
+1)	What is Google Product Feed?    
+2) 	About Google Product Feed Module  
+3)	How to Install  
 4)	Configuration
 
-   * Sitecore Configuration
-   * Config Configuration
-
-5)	Output
-
+* Sitecore Configuration
+* Config Configuration
+  
+5)	Output  
 6)	Challenges faced
 
 ## What is Google Product Feed?
 *	It is a feed in XML Format which we can submit to google for listing the products in Google Shopping Tab.
 *	A google product feed xml file has list of product which use groupings of attributes that define each product in a unique way. Attributes, such as 'condition' and 'availability', can have standardized values, or accepted "answers," or attributes can be open to fill with your own choice of value, such as 'id' or 'title'. Accurately describing items using these attributes allows users to search and find your items more easily.
 *	Google Shopping Tab is available in USA. It is not available in India.
-*	
+
 ## About Google Product Feed Module:
 *	This will help you to create feed in very simple and easy way by just doing few configurations.
 *	With help of this module you can create feed based on any one Sitecore Template.
